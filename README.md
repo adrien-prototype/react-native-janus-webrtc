@@ -8,6 +8,8 @@ I run the app on my iphone with npx react-native start and a build in Xcode.
 
 To install react-native-webrtc I followed this steps : https://github.com/react-native-webrtc/react-native-webrtc/blob/master/Documentation/iOSInstallation.md
 
+Here is a link to Android intallation : https://github.com/react-native-webrtc/react-native-webrtc/blob/master/Documentation/AndroidInstallation.md
+
 I can initiate the janus instance and initiate the videoroom plugin, even register a user, but can't get no stream, the createOffer method on the plugin never suceed. It doesn't throw an error either so I don't really know what to do next.
 
 Here are the logs : 
