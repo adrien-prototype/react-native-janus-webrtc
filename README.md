@@ -14,7 +14,7 @@ This repo is very much inspired by : https://github.com/atyenoria/react-native-w
 
 My situation so far :
 
-I can initiate the janus instance and initiate the videoroom plugin, even register a user, but can't get no stream, the createOffer method on the plugin never suceed. It doesn't throw an error either so I don't really know what to do next.
+I can initiate the janus instance and initiate the videoroom plugin, even register a user, but can't get no stream, the createOffer method on the plugin never suceed. It doesn't throw an error either so I don't really know what to do next, but doesn't show my log in the success callback either.
 
 Here are the logs from the JS console : 
 
